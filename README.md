@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetandabli
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on CSS and JS
 - 📫 How to reach me on anywhere @chetandabli
 

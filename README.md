@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetandabli
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in web devlopment.
 - 🌱 I’m currently creating project with HTML, CSS & JS
 - 💞️ I’m looking to collaborate on CSS and JS
 - 📫 How to reach me on anywhere @chetandabli

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan!
 - 👀 I’m learning web devlopment.
-- 🌱 I’m currently creating project with Vanilla JS
-- 💞️ I’m looking to collaborate on Vanilla JS
+- 🌱 I’m currently creating project with Vanilla JS and ExpressJS
+- 💞️ I’m looking to collaborate on Vanilla JS and ExpressJS
 - 📫 How to reach me? connect me on anywhere @chetandabli
 
 <!---

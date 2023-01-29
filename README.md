@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+from+Chetan!;Aspiring+Full+Stack+Web+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+from+Chetan!;Aspiring+Full+Stack+Web+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=5000">
   <p>A passionate Backend developer from India</p>
 </h3>
 

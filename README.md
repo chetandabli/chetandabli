@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node js backend development**
 - 💬 Ask me about **JavaScript,HTML,CSS,NodeJS,ExpressJS,MongoDB**
-- 📫 How to reach me **chetandabli@gmail.com**
+- 📫 How to reach me **[chetandabli@gmail.com](mailto:chetandabli@gmail.com)**
 - 📄 Know about my experiences **[https://drive.google.com/file/d/188lGyqT4ZZ3LTYQ9EIKTVzoZKuqeabjy/view?usp=share_link](https://drive.google.com/file/d/188lGyqT4ZZ3LTYQ9EIKTVzoZKuqeabjy/view?usp=share_link)**
 
 ## 🌐 Socials

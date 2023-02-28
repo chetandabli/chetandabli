@@ -5,7 +5,7 @@
 
 -------
 
-- 🌱 I’m currently learning **Node js backend development**
+- 🌱 I’m currently learning **Nodejs backend development**
 - 💬 Ask me about **JavaScript, NodeJS, ExpressJS, MongoDB, MySQL**
 - 📫 How to reach me **[chetandabli@gmail.com](mailto:chetandabli@gmail.com)**
 - 📄 Know about my experiences **[RESUME](https://drive.google.com/file/d/188lGyqT4ZZ3LTYQ9EIKTVzoZKuqeabjy/view?usp=share_link)**

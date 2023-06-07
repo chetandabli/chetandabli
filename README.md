@@ -5,7 +5,7 @@
 
 -------
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, Redis, Socket**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, Redis, Socket.io**
 - 📫 How to reach me **[chetandabli@gmail.com](mailto:chetandabli@gmail.com)**
 - 📄 Know about my experiences **[RESUME](https://drive.google.com/file/d/188lGyqT4ZZ3LTYQ9EIKTVzoZKuqeabjy/view?usp=share_link)**
 - 👨‍💻 Checkout my portfolio here **[chetandabli.github.io](https://chetandabli.github.io/)**

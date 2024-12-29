@@ -1,11 +1,10 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+from+Chetan!;Aspiring+Full+Stack+Web+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=5000">
-  <p>A passionate Frontend Developer from India</p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+from+Chetan!;Full+Stack+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=5000">
 </h3>
 
 -------
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, Redis, Socket.io.**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, Redis, Socket.io., Python**
 - 📫 How to reach me **[chetandabli@gmail.com](mailto:chetandabli@gmail.com)**
 - 📄 Know about my experiences **[RESUME](https://drive.google.com/file/d/1kSqFtTOOhbdvL8zGzvwIfwNSKSyU6poR/view?usp=sharing)**
 - 👨‍💻 Checkout my portfolio here **[chetandabli.github.io](https://chetandabli.github.io/)**
